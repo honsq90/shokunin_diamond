@@ -23,6 +23,8 @@ If you have RVM already installed, `rvm install 2.0.0`
 
 Otherwise, `brew install ruby` to get started
 
+If you are using Ruby 2.2+, you will need to run `gem install test-unit` first as it's not bundled together any more.
+
 Then use the `./go.sh` script.
 
 Run tests
