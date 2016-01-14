@@ -37,4 +37,4 @@ Run app, like so `./go.sh run <input>`
 ```
 
 ### Credits
-Credits to @joesustaric for the README template.
+Credits to @joesustaric for the README and go.sh template.
