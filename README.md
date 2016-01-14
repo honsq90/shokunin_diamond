@@ -35,3 +35,6 @@ Run app, like so `./go.sh run <input>`
 ./go.sh run E
 ...
 ```
+
+### Credits
+Credits to @joesustaric for the README template.
